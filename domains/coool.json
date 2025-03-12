@@ -1,0 +1,10 @@
+{
+  "description": "coool.is-a.dev",
+  "owner": {
+    "username": "Coool",
+    "email": "coool.is-a.dev.coool@privatepasta.com"
+  },
+  "record": {
+    "A": ["127.0.0.1"]
+  }
+}
